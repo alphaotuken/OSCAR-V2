@@ -9,7 +9,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 (https://chatgpt.nextweb.fun/) / (https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / (https://user-images.githubusercontent.com/16968934/236402186-fa76e930-64f5-47ae-b967-b0f04b1fbf56.jpg) / (https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FOSCAR-V2&env=OPENAI_API_KEY&env=CODE&project-name=oscar-v2&repository-name=OSCAR-V2) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web#OPENAI_API_KEY=sk-xxxxx&CODE=your-page-password-here)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FOSCAR-V2&env=OPENAI_API_KEY&env=CODE&project-name=oscar-v2&repository-name=OSCAR-V2) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FYidadaa%2FOSCAR-V2#OPENAI_API_KEY=sk-xxxxx&CODE=your-page-password-here)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 

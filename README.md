@@ -1,19 +1,15 @@
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
 
-<h1 align="center">ChatGPT Next Web</h1>
-
-English / [简体中文](./README_CN.md)
+<h1 align="center">OSCAR AI</h1>
 
 One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
-一键免费部署你的私人 ChatGPT 网页应用。
+[Demo](https://chatgpt.nextweb.fun/) / [Issues](https://github.com/alphaotuken/OSCAR-V2/issues) 
 
-[Demo](https://chatgpt.nextweb.fun/) / [Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [Join Discord](https://discord.gg/zrhvHCr79N) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+(https://chatgpt.nextweb.fun/) / (https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / (https://user-images.githubusercontent.com/16968934/236402186-fa76e930-64f5-47ae-b967-b0f04b1fbf56.jpg) / (https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
 
-[演示](https://chatgpt.nextweb.fun/) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [QQ 群](https://user-images.githubusercontent.com/16968934/236402186-fa76e930-64f5-47ae-b967-b0f04b1fbf56.jpg) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web#OPENAI_API_KEY=sk-xxxxx&CODE=your-page-password-here)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FOSCAR-V2&env=OPENAI_API_KEY&env=CODE&project-name=oscar-v2&repository-name=OSCAR-V2) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web#OPENAI_API_KEY=sk-xxxxx&CODE=your-page-password-here)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 

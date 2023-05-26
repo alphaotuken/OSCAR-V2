@@ -3,15 +3,13 @@
 
 <h1 align="center">OSCAR AI</h1>
 
-One-Click to deploy well-designed ChatGPT web UI on Vercel.
+Your Personal ChatBot!
 
 [Demo](https://chatgpt.nextweb.fun/) / [Issues](https://github.com/alphaotuken/OSCAR-V2/issues) 
 
-(https://chatgpt.nextweb.fun/) / (https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / (https://user-images.githubusercontent.com/16968934/236402186-fa76e930-64f5-47ae-b967-b0f04b1fbf56.jpg) / (https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
-
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FOSCAR-V2&env=OPENAI_API_KEY&env=CODE&project-name=oscar-v2&repository-name=OSCAR-V2) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Falphaotuken%2FOSCAR-V2#OPENAI_API_KEY=sk-xxxxx&CODE=your-page-password-here)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/alphaotuken/OSCAR-V2)
 
 ![cover](./docs/images/cover.png)
 
@@ -31,13 +29,13 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 ## Roadmap
 
-- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/alphaotuken/OSCAR-V2/issues/138)
 - [x] User Prompt: user can edit and save custom prompts to prompt list
-- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
+- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/alphaotuken/OSCAR-V2/issues/993)
 - [ ] Share as image, share to ShareGPT
 - [ ] Desktop App with tauri
 - [ ] Self-host Model: support llama, alpaca, ChatGLM, BELLE etc.
-- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/alphaotuken/OSCAR-V2/issues/165)
 
 ### Not in Plan
 
@@ -48,57 +46,14 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 - 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/).
 
-## 主要功能
-
-- 在 1 分钟内使用 Vercel **免费一键部署**
-- 完整的 Markdown 支持：LaTex 公式、Mermaid 流程图、代码高亮等等
-- 精心设计的 UI，响应式设计，支持深色模式，支持 PWA
-- 极快的首屏加载速度（~100kb），支持流式响应
-- 隐私安全，所有数据保存在用户浏览器本地
-- 预制角色功能（面具），方便地创建、分享和调试你的个性化对话
-- 海量的内置 prompt 列表，来自[中文](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)和[英文](https://github.com/f/awesome-chatgpt-prompts)
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 多国语言支持：English, 简体中文, 繁体中文, 日本語, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
-
-## 开发计划
-
-- [x] 为每个对话设置系统 Prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
-- [x] 允许用户自行编辑内置 Prompt 列表
-- [x] 预制角色：使用预制角色快速定制新对话 [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [ ] 分享为图片，分享到 ShareGPT
-- [ ] 使用 tauri 打包桌面应用
-- [ ] 支持自部署的大语言模型
-- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
-
-### 不会开发的功能
-
-- 界面文字自定义
-- 用户登录、账号管理、消息云同步
-
-## 最新动态
-
-- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)。
-- 💡 想要更方便地随时随地使用本项目？可以试下这款桌面插件：https://github.com/mushan0x0/AI0x0.com
-
 ## Get Started
-
-> [简体中文 > 如何开始使用](./README_CN.md#开始使用)
 
 1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
 2. Click
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web), remember that `CODE` is your page password;
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falphaotuken%2FOSCAR-V2&env=OPENAI_API_KEY&env=CODE&project-name=oscar-v2&repository-name=OSCAR-V2), remember that `CODE` is your page password;
 3. Enjoy :)
 
-## FAQ
-
-[简体中文 > 常见问题](./docs/faq-cn.md)
-
-[English > FAQ](./docs/faq-en.md)
-
 ## Keep Updated
-
-> [简体中文 > 如何保持代码更新](./README_CN.md#保持更新)
 
 If you have deployed your own project with just one click following the steps above, you may encounter the issue of "Updates Available" constantly showing up. This is because Vercel will create a new project for you by default instead of forking this project, resulting in the inability to detect updates correctly.
 
@@ -126,8 +81,6 @@ You can star or watch this project or follow author to get release notifictions 
 
 ## Access Password
 
-> [简体中文 > 如何增加访问密码](./README_CN.md#配置页面访问密码)
-
 This project provides limited access control. Please add an environment variable named `CODE` on the vercel environment variables page. The value should be passwords separated by comma like this:
 
 ```
@@ -137,8 +90,6 @@ code1,code2,code3
 After adding or modifying this environment variable, please redeploy the project for the changes to take effect.
 
 ## Environment Variables
-
-> [简体中文 > 如何配置 api key、访问密码、接口代理](./README_CN.md#环境变量)
 
 ### `OPENAI_API_KEY` (required)
 
@@ -174,9 +125,7 @@ If you do not want users to use GPT-4, set this value to 1.
 
 ## Development
 
-> [简体中文 > 如何进行二次开发](./README_CN.md#开发)
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/alphaotuken/OSCAR-V2)
 
 Before starting development, you must create a new `.env.local` file at project root, and place your api key into it:
 
@@ -194,14 +143,10 @@ yarn install
 yarn dev
 ```
 
-## Deployment
-
-> [简体中文 > 如何部署到私人服务器](./README_CN.md#部署)
-
 ### Docker (Recommended)
 
 ```shell
-docker pull yidadaa/chatgpt-next-web
+docker pull alphaotuken/oscar-v2
 
 docker run -d -p 3000:3000 \
    -e OPENAI_API_KEY="sk-xxxx" \
@@ -216,13 +161,13 @@ docker run -d -p 3000:3000 \
    -e OPENAI_API_KEY="sk-xxxx" \
    -e CODE="your-password" \
    -e PROXY_URL="http://localhost:7890" \
-   yidadaa/chatgpt-next-web
+   alphaotuken/oscar-ai
 ```
 
 ### Shell
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/alphaotuken/OSCAR-V2/main/scripts/setup.sh)
 ```
 
 ## Screenshots
@@ -238,8 +183,6 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 ## Special Thanks
 
 ### Sponsor
-
-> 仅列出捐赠金额 >= 100RMB 的用户。
 
 [@mushan0x0](https://github.com/mushan0x0)
 [@ClarenceDan](https://github.com/ClarenceDan)
@@ -263,9 +206,6 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 [@AnsonHyq](https://github.com/AnsonHyq)
 [@synwith](https://github.com/synwith)
 
-### Contributor
-
-[Contributors](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
 
 ## LICENSE
 

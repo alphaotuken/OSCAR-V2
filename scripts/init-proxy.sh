@@ -1,3 +1,4 @@
+
 dir="$(dirname "$0")"
 config=$dir/proxychains.conf
 host_ip=$(grep nameserver /etc/resolv.conf | sed 's/nameserver //')

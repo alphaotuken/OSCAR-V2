@@ -5,7 +5,7 @@
 
 Your Personal ChatBot!
 
-[Demo](https://chatgpt.nextweb.fun/) / [Issues](https://github.com/alphaotuken/OSCAR-V2/issues) 
+[Demo](https://oscarai.netlify.app/#/) / [Issues](https://github.com/alphaotuken/OSCAR-V2/issues) 
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FOSCAR-V2&env=OPENAI_API_KEY&env=CODE&project-name=oscar-v2&repository-name=OSCAR-V2) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Falphaotuken%2FOSCAR-V2#OPENAI_API_KEY=sk-xxxxx&CODE=your-page-password-here)
 

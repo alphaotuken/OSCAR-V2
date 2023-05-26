@@ -1,4 +1,3 @@
-
 import EmojiPicker, {
   Emoji,
   EmojiStyle,

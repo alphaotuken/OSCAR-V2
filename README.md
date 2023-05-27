@@ -166,13 +166,6 @@ docker run -d -p 3000:3000 \
 bash <(curl -s https://raw.githubusercontent.com/alphaotuken/OSCAR-V2/main/scripts/setup.sh)
 ```
 
-
-![More](./docs/images/more.png)
-
-## Donation
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
-
 ## Special Thanks
 
 ### Sponsor

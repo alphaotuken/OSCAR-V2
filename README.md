@@ -166,9 +166,6 @@ docker run -d -p 3000:3000 \
 bash <(curl -s https://raw.githubusercontent.com/alphaotuken/OSCAR-V2/main/scripts/setup.sh)
 ```
 
-## Screenshots
-
-![Settings](./docs/images/settings.png)
 
 ![More](./docs/images/more.png)
 
